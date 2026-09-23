@@ -1,0 +1,12 @@
+{
+  "appId": "com.ersenbox.kiezcheck",
+  "appName": "KiezCheck Berlin",
+  "webDir": "www",
+  "server": {
+    "url": "https://kiezcheck.de",
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "AdMob": {}
+  }
+}
